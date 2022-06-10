@@ -5,3 +5,7 @@ const renderELetter =()=>{
 const downloadEletter =()=>{
   console.log(' download eletter ')
 }
+
+const handleEditEletter =() =>{
+  console.log(' handle Edit Eletter ')
+}
